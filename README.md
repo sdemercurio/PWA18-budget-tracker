@@ -21,10 +21,10 @@ SO THAT my account balance is accurate when I am traveling
 ## The app
 ![Budget Tracker](./public/img/budget.PNG)
 
-##The app functioning offline
+## The app functioning offline
 ![Offline Functionality](./public/img/pending.PNG)
 
-##The data saving in MongoDB once online again
+## The data saving in MongoDB once online again
 ![Online storage](./public/img/atlas.PNG)
 
-![Link to Deployment](https://intense-reef-24838.herokuapp.com/)
+[Link to Deployment](https://intense-reef-24838.herokuapp.com/)
